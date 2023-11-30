@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Atefa</h1>
-<h3 align="center">A junior coder from Afghanistan but i am living in Spain.</h3>
 
 - 🔭 I’m currently studying **i a Full Stack development Bootcamp with Factoria F5 (850 hours.)**
 
