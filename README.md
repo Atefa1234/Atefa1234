@@ -1,14 +1,41 @@
-<h1 align="center">Hi 👋, I'm Atefa</h1>
+# Hello, I'm Atefa! 👋
 
-- 🔭 I’m currently studying **i a Full Stack development Bootcamp with Factoria F5 (850 hours.)**
+My name is Atefa Mahmoodi, originally from Afghanistan, currently residing in Spain. I'm a passionate junior full-stack web developer on a journey of continuous learning and growth. Welcome to my GitHub profile, where you can explore my projects, skills, and contributions.
 
-- ⚡ Fun fact **In my free time I like to learn new things about techologies, play music (I'm a professional percussionist), any kind of art, stationery, movies, water sports, pilates.**
+## 🌟 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/atefa_mahmoodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atefa_mahmoodi" height="30" width="40" /></a>
-<a href="https://discord.gg/Atefa mahmoodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Atefa mahmoodi" height="30" width="40" /></a>
-</p>
+- 💻 Junior Full Stack Web Developer
+- 🎓 Currently learning and expanding my skills at Factiora F5
+- 🚀 Passionate about creating innovative solutions and impactful projects
+- 🌱 Constantly exploring new technologies and frameworks to stay updated
+- 🏞️ Hobbies: Nature Walks, Music, Family Time, Cooking
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+## 🛠️ Skills
+
+- Frontend Development: 
+  ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![React](https://img.icons8.com/color/48/000000/react-native.png)
+  
+- Backend Development: 
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+  ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
+  ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png)
+
+- Version Control: 
+  ![Git](https://img.icons8.com/color/48/000000/git.png)
+  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+  
+- Methodologies: Agile
+
+## 📈 GitHub Stats
+
+![Atefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atefa1234&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- LinkedIn: [Atefa Mahmoodi](https://www.linkedin.com/in/atefa-mahmoodi)
+- Email: atefa.mahmoodi2021@gmail.com
+
+Feel free to reach out! I'm always open to connect and collaborate on exciting projects. 😊
